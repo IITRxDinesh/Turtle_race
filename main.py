@@ -1,40 +1,4 @@
-# import turtle
-# from turtle import *
-#
-#
-# tim = Turtle()
-# screen = Screen()
-#
-#
-# def forward():
-#     new_turtle.forward(50)
-#
-#
-# def backword():
-#     new_turtle.forward(-50)
-#
-#
-# def left():
-#     new_turtle.left(10)
-# def clear():
-#     new_turtle.clear()
-#     new_turtle.penup()
-#     new_turtle.home()
-#     new_turtle.pendown()
-#
-#
-#
-# def right():
-#     new_turtle.right(10)
-#
-#
-# screen.listen()
-# screen.onkey(forward, "w")
-# screen.onkey(backward , "s")
-# screen.onkey(left, "a " )
-# screen.onkey(right,"d")
-# screen.onkey(clear,"c")
-# turtle.done()
+
 from turtle import Turtle, Screen
 
 import turtle
